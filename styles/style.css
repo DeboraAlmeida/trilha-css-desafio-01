@@ -42,9 +42,6 @@ h1 {
 
 .banner-content p {
   font-size: 1.25rem;
-  font-weight: 400;
-  color: #fff;
-  text-align: center;
 }
 
 .banner-content button {
@@ -59,4 +56,49 @@ h1 {
   background-color: transparent;
   cursor: pointer;
   width: 326px;
+}
+
+#course-content {
+  width: 60%;
+  /* margin: 118px auto 90px auto; */
+  margin: 6.5rem auto 4.5rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #33A8DB;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+p {
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.modules-list {
+  width: 100%;
+}
+
+.module {
+  width: 62%;
+  margin: 24px auto;
+  padding: 16px;
+  color: #fff;
+  text-align: center;
+  border: 1px solid #33A8DB;
+  border-radius: 57px;
+  box-shadow: inset -2px 6px 4px #00000066;
+  background-color: #252525;
+}
+
+.module span {
+  color: #33A8DB;
 }
