@@ -14,3 +14,8 @@ Landing Page feita com HTML e CSS para praticar os fundamentos do CSS e suas pro
 - camadas com imagens e cores
 - @import
 - uso de fonts personalisadas
+- sombras
+
+## Indo além
+
+Não é a proposta desse desafio, porém utilizei mais medidas relativas (em margins, paddings, widths etc) e um pouco de media queries para ajustar melhor o conteúdo em telas menores. Esse foi meu desafio pessoal :)
