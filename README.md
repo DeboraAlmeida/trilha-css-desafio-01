@@ -15,7 +15,14 @@ Landing Page feita com HTML e CSS para praticar os fundamentos do CSS e suas pro
 - @import
 - uso de fonts personalisadas
 - sombras
+- media queries
 
 ## Indo além
 
 Não é a proposta desse desafio, porém utilizei mais medidas relativas (em margins, paddings, widths etc) e um pouco de media queries para ajustar melhor o conteúdo em telas menores. Esse foi meu desafio pessoal :)
+
+## Confira
+
+https://deboraalmeida.github.io/trilha-css-desafio-01/
+
+Experimente abrir no seu celuar também :)
