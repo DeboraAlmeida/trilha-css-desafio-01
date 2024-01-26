@@ -68,7 +68,7 @@ h1 {
 #course-content {
   width: 60%;
   /* margin: 118px auto 90px auto; */
-  margin: 6.5rem auto 4.5rem auto;
+  margin: 6rem auto 4.5rem auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -140,4 +140,46 @@ p {
     width: 30%;
     margin: 35% auto auto 15%;
   }
+}
+
+#professional-challenges {
+  width: 50%;
+  margin: 6rem auto 4.5rem auto;
+  @media screen and (max-width: 768px) {
+    width: 90%;
+  }
+}
+
+#professional-challenges img {
+  width: 100%;
+  margin: 2rem auto;
+}
+
+footer {
+  width: 100%;
+  aspect-ratio: 7/1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #33A8DB;
+  background-image: linear-gradient(#33A8DB00, #33A8DB33);
+  @media screen and (max-width: 768px) {
+    aspect-ratio: 2.5/1;
+  }
+}
+
+footer img {
+  margin: 0.7rem auto;
+  @media screen and (max-width: 367px) {
+    width: 70%;
+  }
+}
+
+a {
+  margin: 0.5rem auto;
+  color: #33A8DB;
+  font-weight: 700;
 }
